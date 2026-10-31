@@ -36,7 +36,8 @@ Backend-focused developer | Building scalable APIs and services
 ### 📌 Featured Projects
 
 - **[configs-project](https://github.com/Moryich/configs-project)** — A REST API for sharing dotfiles and system configurations, built with Django REST Framework.
-- **[url-shortener](https://github.com/Moryich/url-shortener)** — URL shortener built with FastAPI, AWS Lambda, DynamoDB, and SAM
+- **[url-shortener](https://github.com/Moryich/url-shortener)** — URL shortener built with FastAPI, AWS Lambda, DynamoDB, and SAM.
+- **[habit-tracker-api](https://github.com/Moryich/habit-tracker-api)** — Habit tracking REST API built with FastAPI, PostgreSQL, Redis, and Celery. Includes JWT authentication, rate limiting, brute-force protection, automated tests, and CI.
 
 ---
 
